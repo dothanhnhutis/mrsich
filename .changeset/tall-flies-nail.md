@@ -1,5 +1,0 @@
----
-"@mrsich/common": patch
----
-
-init
